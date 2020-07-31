@@ -13,7 +13,7 @@ mnist/
 #data/
 caffe/
 grasp/
-images/
+#images/
 opencv/
 convnet/
 decaf/
