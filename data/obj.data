@@ -1,0 +1,5 @@
+classes= 19
+train  = data/objtrain.txt
+valid  = data/objval.txt
+names = data/obj.names
+backup = backup/
